@@ -65,20 +65,32 @@ The production build will generate client and server modules by running both cli
 npm run build # or `yarn build`
 ```
 
-Working Screenshots:
+<br>
+# Working Screenshots:
 
-Home page: 
+## Home page: 
 ![HOME](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/home.png)
+<br>
+  
 
-Product Catalogue Page:
+## Product Catalogue Page:
 ![Products](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/products.png)
-
-Product example 1:
+<br>
+  
+  
+## Product example 1:
 ![Product 1](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/product1.png)
-
-Product example 2:
+<br>
+  
+  
+## Product example 2:
 ![Product 2](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/product2.png)
-
-Cart:
+<br>
+  
+  
+## Cart:
 ![Cart](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/checkout.png)
+<br>
 
+  
+  
