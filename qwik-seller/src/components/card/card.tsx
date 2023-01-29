@@ -10,10 +10,7 @@ export default component$((props) => {
       <div class="flex flex-col gap-2 cursor-pointer border border-solid border-transparent hover:border-zinc-100 w-[240px] min-h-[240px] max-w-auto"
 
         onClick$={() => {
-          console.log("clicked on item,");
           const itemData = JSON.stringify({ ...props })
-          console.log(itemData);
-          
           localStorage.setItem('productDetails', itemData)
         }}
       >

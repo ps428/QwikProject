@@ -1,10 +1,18 @@
-import { component$, useStyles$ } from '@builder.io/qwik';
+import { component$, useStyles$, useStore, createContext, useContextProvider } from '@builder.io/qwik';
 import { QwikCityProvider, RouterOutlet, ServiceWorkerRegister } from '@builder.io/qwik-city';
 import { RouterHead } from './components/router-head/router-head';
 
 import globalStyles from './global.css?inline';
 
+export const MyContext = createContext('my-context')
+
 export default component$(() => {
+  const state = useStore({
+    items:[]
+  })
+
+  useContextProvider(MyContext, state)
+
   /**
    * The root of a QwikCity site always start with the <QwikCityProvider> component,
    * immediately followed by the document's <head> and <body>.
