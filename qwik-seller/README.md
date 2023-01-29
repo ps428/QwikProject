@@ -80,5 +80,5 @@ Product example 2:
 ![Product 2](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/product2.png)
 
 Cart:
-![Cart](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/cart.png)
+![Cart](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/checkout.png)
 
