@@ -1,4 +1,5 @@
-# Qwik City App ⚡️
+# Qweller: Qwik Seller ⚡️
+A basic e commerce website to initialize my journey with Qwik Framework
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
@@ -63,3 +64,33 @@ The production build will generate client and server modules by running both cli
 ```shell
 npm run build # or `yarn build`
 ```
+
+<br>
+# Working Screenshots:
+
+## Home page: 
+![HOME](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/home.png)
+<br>
+  
+
+## Product Catalogue Page:
+![Products](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/products.png)
+<br>
+  
+  
+## Product example 1:
+![Product 1](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/product1.png)
+<br>
+  
+  
+## Product example 2:
+![Product 2](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/product2.png)
+<br>
+  
+  
+## Cart:
+![Cart](https://github.com/ps428/QwikProject/blob/master/qwik-seller/ss/checkout.png)
+<br>
+
+  
+  
