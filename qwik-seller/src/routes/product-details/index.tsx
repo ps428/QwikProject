@@ -13,7 +13,7 @@ export default component$(() => {
 
   const contextState = useContext(MyContext)
 
-  useClientEffect$(({ }) => {
+  useClientEffect$(() => {
     const data = JSON.parse(localStorage.getItem('productDetails'))
     state.name = data.name
     state.price = data.price
